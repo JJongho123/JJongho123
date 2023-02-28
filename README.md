@@ -18,7 +18,7 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=flat-square&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=ffffff"/>
+
 
 </p>
 
