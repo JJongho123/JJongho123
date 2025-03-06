@@ -14,7 +14,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=flat-square&logo=GitHub&logoColor=181717"/>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/>
+<a href="https://hoyacoding.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/📌 블로그-FF5722?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 </p>
 
 </p>
