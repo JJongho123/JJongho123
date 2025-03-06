@@ -7,17 +7,15 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
 <img src="https://img.shields.io/badge/Spring Boot-f4d159?style=flat-square&logo=Spring Boot&logoColor=181717"/>
-<img src="https://img.shields.io/badge/JPA-9916ec?style=flat-square&logo=JPA&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=flat-square&logo=GitHub&logoColor=181717"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/>
-
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/>
+</p>
 
 </p>
 
