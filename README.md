@@ -28,6 +28,6 @@
 
 ### 📍 Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJongho123&repo=final_project_PersonCenter&theme=react&cache_seconds=1800)](https://github.com/JJongho123/final_project_PersonCenter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJongho123&repo=semi_project&theme=react&cache_seconds=1800)](https://github.com/JJongho123/semi_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJongho123&repo=SoccerSquadBuilder&theme=react&cache_seconds=1800)](https://github.com/JJongho123/SoccerSquadBuilder)
 
 ![JJongho123's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJongho123&theme=midnight-purple&show_icons=true)
