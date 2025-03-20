@@ -28,6 +28,9 @@
 
 ### 📍 Project Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJongho123&repo=SoccerSquadBuilder&theme=react&cache_seconds=1800)](https://github.com/JJongho123/SoccerSquadBuilder)
+**Soccer Squad Builder**는 조기축구팀을 위한 **AI 기반 팀 빌딩 서비스**입니다.  
+사용자의 **체력, 포지션, 기술 스탯**을 활용하여 **균형 잡힌 팀을 자동으로 구성**하는 기능을 제공합니다.  
+
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJongho123&repo=final_project_PersonCenter&theme=react&cache_seconds=1800)](https://github.com/JJongho123/final_project_PersonCenter)
 
