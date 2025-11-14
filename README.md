@@ -18,11 +18,6 @@
 
 ---
 
-## 🌐 **Blog**
-### 👉 [**Hoyacoding Tistory 블로그 바로가기**](https://hoyacoding.tistory.com/)  
-<a href="https://hoyacoding.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory Blog-FF5722?style=for-the-badge&logo=Tistory&logoColor=white"/>
-</a>
 
 
 
